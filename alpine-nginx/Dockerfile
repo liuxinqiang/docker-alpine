@@ -3,7 +3,7 @@ MAINTAINER Juehai (https://juehai.com)
 
 # Install nginx
 RUN echo "https://dl-4.alpinelinux.org/alpine/v3.16/main" >> /etc/apk/repositories && \
-    apk add --update nginx=1.22.1-r0 && \
+    apk add --update nginx && \
     rm -rf /var/cache/apk/* && \
     chown -R nginx:www-data /var/lib/nginx
 
