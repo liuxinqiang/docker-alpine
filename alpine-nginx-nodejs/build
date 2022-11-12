@@ -1,1 +1,1 @@
-docker build -t juehai/alpine-nginx-nodejs:1.0.0 ./alpine-nginx-nodejs
+docker build -t juehai/alpine-nginx-nodejs:16.17.1 ./alpine-nginx-nodejs

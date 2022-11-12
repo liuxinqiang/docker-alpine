@@ -1,1 +1,1 @@
-docker build -t juehai/alpine-nginx:1.0.0 ./alpine-nginx
+docker build -t juehai/alpine-nginx:1.22.1 ./alpine-nginx
