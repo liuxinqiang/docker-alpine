@@ -1,1 +1,1 @@
-docker build -t smebberson/alpine-nginx-nodejs /vagrant/alpine-nginx-nodejs
+docker build -t juehai/alpine-nginx-nodejs:1.0.0 ./alpine-nginx-nodejs
