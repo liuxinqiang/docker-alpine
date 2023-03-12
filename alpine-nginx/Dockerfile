@@ -1,4 +1,4 @@
-FROM juehai/alpine-base:3.16
+FROM registry.juehai.com/alpine-base:3.16
 MAINTAINER Juehai (https://juehai.com)
 
 # Install nginx

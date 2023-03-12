@@ -1,1 +1,1 @@
-docker build -t juehai/alpine-base:3.16 ./alpine-base
+docker build -t registry.juehai.com/alpine-base:3.16 ./alpine-base
